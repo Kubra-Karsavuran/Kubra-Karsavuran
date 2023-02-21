@@ -6,7 +6,7 @@
 <h3 align="center">💬 Reach out to me</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Kubra-Karsavuran&color=green" alt="Kubra-Karsavuran">
-<a href="https://www.linkedin.com/in/k%C3%BCbra-karsavuran18/" target="_blank">
+<a href="https://www.linkedin.com/in/kubrakarsavuran/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kubrakarsavuran-blue?style=flat&logo=linkedin">
 </a>
 
