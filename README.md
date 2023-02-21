@@ -3,6 +3,7 @@
 ### Hi there 👋, I'm Kübra. :blush:
 <p align="left">Based on my algorithmic knowledge gained during my university years, I can comfortably adapt to all programming languages.I work in the field of backend development and want to improve myself and progress in this area, in addition, I also have knowledge of frontend and SEO, and I try to reflect this in my projects.Working as a full-stack developer is one of my goals in the future.
 </p>
+<br/>
 <h3 align="center">💬 Reach out to me</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Kubra-Karsavuran&color=green" alt="Kubra-Karsavuran">
